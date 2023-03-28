@@ -56,7 +56,7 @@ body {
 	font-size: 80%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
+	font-family: "Roboto Mono",monospace;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -73,7 +73,7 @@ code {
 	font: normal normal;
 	font-size: 60%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
+	font-family: monospace,sans-serif;
 	color: #aaa;
 }
 
@@ -100,8 +100,8 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+	/* padding-left: 1.25em;
+	text-indent: -1.25em; */
 	/*color: #777;*/
 }
 
@@ -114,11 +114,13 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: "Roboto Mono",monospace;
 	width: 65%;
 }
 
 h1 {
+	
+	margin-top: 15px;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -134,7 +136,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #aa791d;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -161,16 +163,33 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
+	margin-top: 5em;
 	position: relative;
 	left: 33%;
 	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
+	font-family: "Roboto Mono",monospace;
 	font-size: 80%;
+	/* margin-bottom: 100px; */
 }
 
 #webaddress a {
 	text-decoration: none;
+}
+
+#me_image {
+	margin-top: 1em;
+	position: absolute;
+	width: 40%;
+	left: 13%;
+	color: #ccc;
+	font-family: "Roboto Mono",monospace;
+	font-size: 80%;
+	/* overflow: auto; */
+}
+
+#me_image img {
+	float: left;
+	margin-right: 10px;
 }
 
 em {

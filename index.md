@@ -1,91 +1,120 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jakub Jíra's cv
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+<div id="me_image">
+    <img src="media/me.png" width="180">
+</div>
+# Jakub Jíra
+ 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+    <a href="jakub.jira@protonmail.com">jakub.jira@protonmail.com</a>
+|   <a href="https://github.com/japawBlob">github.com/japawBlob</a>
+|    <a href="https://www.linkedin.com/in/jakub-j%C3%ADra/">linkedin.com/in/jakub-jíra</a>
 </div>
 
 
-## Currently
+## Personal Information
 
-Standing on the shoulders of giants
+### Contact
 
-### Specialized in
+Tel: +420 775 602 272
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Email: jakub.jira@protonmail.com
 
+Adress: U Vodojemu 625, Chrast
 
-### Research interests
+### Other
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Born: 8. 11. 1998 in Chrudim
 
+Citizenship: Czech Republic
+
+Sex: Male
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### School
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2021-present`
+Open informatics - Computer engineering, Czech Technical University in Prague
+- Diploma thesis topic: Diagnostic tools for car control units
 
-- Sizar
+`2018-2021`
+Open informatics - Internet of things, Czech Technical University in Prague
+- Bachelor thesis topic: Intelligent Pills Dispenser Design
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2014-2018`
+Gymnázium, Pardubice, Dašická 1084
 
-- Fellow
+### Other
 
+`2016-2018`
+Microsoft Student Trainee Center
+- Graduate with honours
 
+## Working Experience
 
-## Awards
+### Freelance
 
-`2012`
-President, *Royal Society*, London, UK
+`2021-present`
+Full-time - Network Admin at RIXO.cz
+- Managing Microsoft Azure, Salesforce Service Cloud
+- Scripting in python and PowerShell, deploying programs and policies on 200+ Windows devices
+- User support for internal systems
 
-Associate, *French Academy of Science*, Paris, France
+`2015-present`
+Part-time - Network Admin at Firma OKO
+- Family business
+- Repairing camera servers, device management, installation of camera systems
 
+### Volunteering
 
+`2018-present`
+Microsoft Student Trainee Center
+- Participant in worldwide Microsoft Hackathon - OneWeek
+- Former leadership member
+- Advisor of IoT projects
+- Lecturer of programming, networking and soft skills
 
-## Publications
+## Certifications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2020`
+Cisco Certified Network Associate Routing and Switching (CCNA)
 
-### Journals
+`2019`
+Microsoft Technology Associate: Windows Operating System Fundamentals (MTA)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2016`
+MOS: Microsoft Office PowerPoint 2013
 
-`1669`
-Lectiones opticæ.
+## Languages
 
-etc. etc. etc.
+Czech - native
 
-### Patents
+English - fluent
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Russian - beginner
 
+## Computer Skills
 
-## Occupation
+Programming Languages:
+- C, C++, Rust, Python - Intermediate
+- Java, PowerShell, Bash, Make - Basic level
 
-`1600`
-__Royal Mint__, London
+Technologies & Software:
+- Git, Jira, Confluence
+- Administration of Windows systems
+- GNU/Linux
 
-- Warden
-- Minted coins
+## Interests
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Ballroom dancing - Taneční škola Bohémia Chrast
 
+Japanese material arts - Battōjutsu
 
+### Last updated: 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+March 2023
