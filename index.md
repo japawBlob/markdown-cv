@@ -38,9 +38,11 @@ Sex: Male
 
 ### School
 
-`2021-present`
+`2021-2024`
 Open informatics - Computer engineering, Czech Technical University in Prague
-- Diploma thesis topic: Diagnostic tools for car control units
+- Diploma thesis topic: Diagnostic tools for automotive ECUs
+- Created one private and two public libraries: [tokio-socketcan-isotp](https://crates.io/crates/tokio-socketcan-isotp), [uds-rs](https://crates.io/crates/uds-rs)
+- Final grade: B
 
 `2018-2021`
 Open informatics - Internet of things, Czech Technical University in Prague
@@ -57,9 +59,22 @@ Microsoft Student Trainee Center
 
 ## Working Experience
 
+### Employment
+
+`2024-present`
+Full-time - Application engineer at STMicroelectronics
+- Microcontroller user support for large customers 
+- Creating demo applications: DC-DC convertor with StellarE 
+- Studied DFA (Data flow architecture) hardware accelerator and hosted knowleadge sharing session for the microcontroller team
+- Schematic review
+
+`2023-2024`
+Part-time - Trainee at STMicroelectronics
+- Creating demo applications for StellarE microcontroller with the focus on high resolution timers
+
 ### Freelance
 
-`2021-present`
+`2021-2023`
 Full-time - Network Admin at RIXO.cz
 - Managing Microsoft Azure, Salesforce Service Cloud
 - Scripting in python and PowerShell, deploying programs and policies on 200+ Windows devices
@@ -72,14 +87,17 @@ Part-time - Network Admin at Firma OKO
 
 ### Volunteering
 
-`2018-present`
+`2018-2022`
 Microsoft Student Trainee Center
 - Participant in worldwide Microsoft Hackathon - OneWeek
 - Former leadership member
-- Advisor of IoT projects
+- Advisor on IoT projects
 - Lecturer of programming, networking and soft skills
 
 ## Certifications
+
+`2024`
+Open Source Software Development, Linux and Git
 
 `2020`
 Cisco Certified Network Associate Routing and Switching (CCNA)
@@ -94,27 +112,28 @@ MOS: Microsoft Office PowerPoint 2013
 
 Czech - native
 
-English - fluent
+English - working proficiency
 
 Russian - beginner
 
 ## Computer Skills
 
 Programming Languages:
-- C, C++, Rust, Python - Intermediate
-- Java, PowerShell, Bash, Make - Basic level
+- Comfortable working with and using on regular basis: C, Rust, Python, GnuMake, Bash
+- Have some experience with: C++, Java, PowerShell, Meson, Nix language, Lua (NeoVim)
 
 Technologies & Software:
-- Git, Jira, Confluence
-- Administration of Windows systems
-- GNU/Linux
+- Avid GNU/Linux power-user
+- Embedded bare-metal programming
+- Hardware debugging (Lauterbach, UDE)
+- Git, Jira, Confluence 
 
 ## Interests
 
-Ballroom dancing - Taneční škola Bohémia Chrast
-
 Japanese material arts - Battōjutsu
+
+3D printing
 
 ### Last updated: 
 
-March 2023
+August 2024
