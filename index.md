@@ -7,7 +7,7 @@ title: Jakub Jíra's cv
     <img src="media/me.png" width="180">
 </div>
 # Jakub Jíra
- 
+
 
 <div id="webaddress">
     <a href="jakub.jira@protonmail.com">jakub.jira@protonmail.com</a>
@@ -18,21 +18,15 @@ title: Jakub Jíra's cv
 
 ## Personal Information
 
-### Contact
+Prague, Czech Republic
 
 Tel: +420 775 602 272
 
 Email: jakub.jira@protonmail.com
 
-Adress: U Vodojemu 625, Chrast
+## Summary
 
-### Other
-
-Born: 8. 11. 1998 in Chrudim
-
-Citizenship: Czech Republic
-
-Sex: Male
+Computer engineer with experience in LLM inference, low-level programming and Rust development. Currently leading an engineering team of 8 people, delivering infrastructure, DevOps, and telemetry solutions. Background in microcontroller applications, automotive tooling, and distributed systems.
 
 ## Education
 
@@ -41,7 +35,7 @@ Sex: Male
 `2021-2024`
 Open informatics - Computer engineering, Czech Technical University in Prague
 - Diploma thesis topic: Diagnostic tools for automotive ECUs
-- Created one private and two public libraries: [tokio-socketcan-isotp](https://crates.io/crates/tokio-socketcan-isotp), [uds-rs](https://crates.io/crates/uds-rs)
+- Developing automotive tools using Rust - created one private and two public libraries: [tokio-socketcan-isotp](https://crates.io/crates/tokio-socketcan-isotp), [uds-rs](https://crates.io/crates/uds-rs)
 - Final grade: B
 
 `2018-2021`
@@ -61,29 +55,33 @@ Microsoft Student Trainee Center
 
 ### Employment
 
-`2024-present`
-Full-time - Application engineer at STMicroelectronics
-- Microcontroller user support for large customers 
-- Creating demo applications: DC-DC convertor with StellarE 
-- Studied DFA (Data flow architecture) hardware accelerator and hosted knowleadge sharing session for the microcontroller team
-- Schematic review
+`2025-present`
+Team leader Software engineer at Turbonext.ai
+- Led two engineering teams (4-person delivery -> 8-person infrastructure).
+- Responsibilities range from DevOps (Github actions), Telemetry (Prometheus, Grafana, OTEL), testing and validation
+- Collaborating with teams across Taiwan, India, USA; participated in onsite client meetings in China
+- Coordinating cross-team projects.
+
+`2024-2025`
+Software engineer at Turbonext.ai
+- Worked on implementing some data plane features to custom fork of vLLM
+- Led development of a demo that resulted in 6/6 positive meetings with potential investors and customers.
 
 `2023-2024`
-Part-time - Trainee at STMicroelectronics
+Application engineer at STMicroelectronics
+- Microcontroller user support for large customers
 - Creating demo applications for StellarE microcontroller with the focus on high resolution timers
+- Creating demo applications: DC-DC converter with StellarE
+- Studied DFA (Data flow architecture) hardware accelerator and hosted knowledge sharing session for the microcontroller team
+- Schematic review
 
 ### Freelance
 
 `2021-2023`
-Full-time - Network Admin at RIXO.cz
+Network Admin at RIXO.cz
 - Managing Microsoft Azure, Salesforce Service Cloud
-- Scripting in python and PowerShell, deploying programs and policies on 200+ Windows devices
+- Scripting in python and PowerShell, deploying software and policies on 200+ Windows devices
 - User support for internal systems
-
-`2015-present`
-Part-time - Network Admin at Firma OKO
-- Family business
-- Repairing camera servers, device management, installation of camera systems
 
 ### Volunteering
 
@@ -116,24 +114,27 @@ English - working proficiency
 
 Russian - beginner
 
-## Computer Skills
+## Skills
 
-Programming Languages:
-- Comfortable working with and using on regular basis: C, Rust, Python, GnuMake, Bash
-- Have some experience with: C++, Java, PowerShell, Meson, Nix language, Lua (NeoVim)
+### Programming languages:
+- C, Python, Rust, GnuMake, Bash, C++, Java, PowerShell, Meson, Nix language, Lua (NeoVim)
 
-Technologies & Software:
-- Avid GNU/Linux power-user
-- Embedded bare-metal programming
-- Hardware debugging (Lauterbach, UDE)
-- Git, Jira, Confluence 
+### Technologies:
+
+Linux, Docker, GitHub Actions, Prometheus, Grafana, OTEL, Git, CI/CD
+
+### Embedded/Hardware
+
+Bare-metal development, microcontrollers, hardware debugging (Lauterbach, UDE), schematic review
 
 ## Interests
 
-Japanese material arts - Battōjutsu
+Avid Linux user (every personal PC in my home is Linux powered)
+
+PC Gaming
 
 3D printing
 
-### Last updated: 
+### Last updated:
 
-August 2024
+November 2025
